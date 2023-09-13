@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RoteiroTrilhas</string>
+    <string name="bem_vindo">"Bem vindo ao Roteiro Trilhas!"</string>
+    <string name="info">"Informe abaixo a cidade que acharemos as trilhas mais próximas:"</string>
+    <string name="btn_encontrar">"Encontrar trilhas"</string>
+    <string name="txt_exemplo">"Ex: Rio de Janeiro"</string>
 </resources>
